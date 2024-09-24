@@ -1,0 +1,42 @@
+h1 {
+    text-align: center;
+    font-family: 'Ubuntu mono';
+    font-size: larger;
+    text
+} 
+.list_container {
+    text-align: center;
+    margin: 0% 20% 0% 20%;
+    display: grid;
+    padding: 1%;
+    border-width: 2px;
+    border-color: black;
+    border-style: solid;
+    background-color: rgb(236, 234, 234);
+    border-radius: 5px;
+
+
+}
+a {
+    padding: 1%;
+    color: #000;
+    text-decoration: none;
+    background-color: rgb(11, 15, 15);
+    margin: 1%;
+    border-radius: 5px;
+    color: aliceblue;
+    font-family: 'Ubuntu Mono';
+    transition: font-size 2s, background-color 2s;
+
+
+}
+h2{
+    font-family: 'Ubuntu Mono';
+    text-align: center;
+}
+a:hover {
+    background-color: rgb(255, 251, 0);
+    color: rgb(8, 8, 8);
+    font-size:xx-large;
+   
+}
